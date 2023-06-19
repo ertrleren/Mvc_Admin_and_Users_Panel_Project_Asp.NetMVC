@@ -1,0 +1,30 @@
+﻿@model EntityLayer.Concrete.Admin
+
+@{
+    ViewBag.Title = "AddAdmin";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<h1>Yeni Admin Ekleme Sayfası</h1>
+<br />
+
+@using (Html.BeginForm("AddAdmin", "Authorization", FormMethod.Post))
+
+
+{
+    <div class="form-group">
+        @Html.Label("Admin Kullanıcı Adı")
+        @Html.TextBoxFor(x => x.AdminUserName, new { @class = "form-control" })
+        <br />
+        @Html.Label("Şifre yazınır")
+        @Html.TextAreaFor(x => x.AdminPassword, new { @class = "form-control" })
+        <br />
+        @Html.Label("Rolü Seçiniz")
+        @Html.TextAreaFor(x => x.AdminRole, new { @class = "form-control" })   // Rolleridropdown liste ile değiştir. Ders.97
+        <br />
+        <button class="btn btn-info" id="btn3">Kategoriyi Kaydet</button>
+   
+    </div>
+
+}
+
