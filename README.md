@@ -1,23 +1,19 @@
 # Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC
  It is actively used as admin panel and user panel. With mssql support and data diversity. An expandable panel in which users can message and monitor their posts.
+ <h1>Contents</h1>
 <h2>Home Page</h2>
-![HomePage_1](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/d2fbcbb8-5b60-4d35-81c6-4898f0b62ef2)
-<br>
-![HomePage_2](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/e8d26c4a-b816-4ee0-ae58-cb26cd8d8f3e)
-
 <h2>User Login</h2>
-![User_Login](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/6ffb2378-f3d7-4519-9ba2-cf39d8a993f9)
-<br>
 <h2>Admin Login</h2>
-![Admin_Login](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/e51881a9-65df-4676-94e0-2df10d36848f)
-<br>
 <h2>Admin Category</h2>
-![AdminPanel_Category](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/0ec829a1-fbee-4924-b02d-b8f204d482cf)
-<br>
 <h2>Admin Heading</h2>
-![AdminPanel_Heading](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/4c3f975a-969a-41a7-97c4-deb25c7264f2)
-<br>
 <h2>Admin Message</h2>
 
-![AdminPanel_Message](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/0038a1e5-abab-4cd0-b599-34c25e995bae)
-<br>
+![HomePage_1](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/50a3266b-ec7c-40d2-850d-8ec14b63c6a5)
+![HomePage_2](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/b70d9015-254b-473c-bb5b-ec673ea8daff)
+![User_Login](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/709c82f4-5e7b-4541-bd46-3bc15ae1cfd0)
+![Admin_Login](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/c0c439c2-2585-4200-b540-bb00b1dd8caa)
+![AdminPanel_Category](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/19deac5d-5690-403a-a346-b609bda1e09e)
+![AdminPanel_Heading](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/0d719fd9-fd0d-436c-baaf-36d4e12e5a7a)
+![AdminPanel_Message](https://github.com/ertrleren/Mvc_Admin_and_Users_Panel_Project_Asp.NetMVC/assets/98084030/40baa4ad-9aa4-42fe-bca0-923443566c5c)
+
+
